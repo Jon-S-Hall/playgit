@@ -1,1 +1,4 @@
-This is written in the first version of File B.
+This is written in the first version of File B
+
+
+I subtracted a period, first edit of File B.
